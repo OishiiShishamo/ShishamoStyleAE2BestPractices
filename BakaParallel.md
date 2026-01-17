@@ -10,8 +10,13 @@ NAE2とか入ってるならJob Auto-Complete Card辺り積んでサブネット
 # まとめ
 
 TL;DRだけで大体の人は理解できると思うのでこれで良い気がする。
+
 PL投げてくれたらもっとまともな文章になるかも。
 
 # 追記
 
 NAE2入ってる場合はInterface P2Pでええやん。
+
+# 追追記
+
+[NAE2入ってる場合向けのやつ書いたよ](./NAE2InsideBakaParallel.md)

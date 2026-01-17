@@ -6,4 +6,6 @@
 なお、これは1.12.2のAE2UEL or AE2UEL Extra前提です。
 1.20.1とか知らん。
 
+[これ](https://gtnh.miraheze.org/wiki/Good_Practices_With_AE)読んである程度は理解出来るくらいのAE2に対する理解度がある前提だから注意してね。
+
 [Index](./Index.md)

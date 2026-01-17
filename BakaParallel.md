@@ -20,3 +20,7 @@ NAE2入ってる場合はInterface P2Pでええやん。
 # 追追記
 
 [NAE2入ってる場合向けのやつ書いたよ](./NAE2InsideBakaParallel.md)
+
+# 追追追記
+
+Level Maintainerのバッチサイズは雑にめっちゃ上げとくと詰まりにくいと思うよ。

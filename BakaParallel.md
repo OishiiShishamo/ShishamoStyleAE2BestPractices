@@ -1,4 +1,5 @@
 # BakaParallel
+[Let's Index](./Index.md)
 
 # TL;DR
 
